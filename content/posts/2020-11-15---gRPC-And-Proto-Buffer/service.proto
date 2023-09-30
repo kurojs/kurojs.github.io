@@ -1,0 +1,14 @@
+syntax = "proto3";
+package tutorial;
+
+service PhoneBookService {
+    rpc Single(ChatMessage) returns (ChatMessage);
+    rpc ListenMultiMessages (ChatMessage) returns (stream ChatMessage);
+    rpc SendMultiMessage (stream ChatMessage) returns (ChatMessage);
+    rpc BidiSendAndRecv (stream ChatMessage) returns (stream ChatMessage);
+}
+
+message ChatMessage {
+    int32 id = 1;
+    string message = 2;
+}
