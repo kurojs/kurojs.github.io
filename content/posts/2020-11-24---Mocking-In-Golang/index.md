@@ -248,8 +248,6 @@ You can find the example here: https://github.com/kurojs/gomock_demo
 
 - https://github.com/golang/mock
 
-- [Stackoverflow: What's the difference between faking, mocking, and stubbing?
-](https://stackoverflow.com/questions/346372/whats-the-difference-between-faking-mocking-and-stubbing#:~:text=Stub%20%2D%20an%20object%20that%20provides,e.g.%20a%20fake%20web%20service.&text=But%20informally%2C%20you'll%20often,people%20simply%20call%20them%20mocks.)
+- [Stackoverflow: What's the difference between faking, mocking, and stubbing?](https://stackoverflow.com/questions/346372/whats-the-difference-between-faking-mocking-and-stubbing#:~:text=Stub%20%2D%20an%20object%20that%20provides,e.g.%20a%20fake%20web%20service.&text=But%20informally%2C%20you'll%20often,people%20simply%20call%20them%20mocks.)
 
-- [Unit Testing Tutorial: What is, Types, Tools, EXAMPLE
-](https://www.guru99.com/unit-testing-guide.html#2)
+- [Unit Testing Tutorial: What is, Types, Tools, EXAMPLE](https://www.guru99.com/unit-testing-guide.html#2)
