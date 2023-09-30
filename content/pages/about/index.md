@@ -1,13 +1,24 @@
 ---
-title: "About me"
+title: "Hello, my name is Kuro"
+socialImage: ./banner.png
+date: 2020-11-01
 template: "page"
-socialImage: "./notebook.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+_Dream is not what you see when you sleep. Dream is what does not let you sleep._
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/notebook.jpg)
+### About Me
 
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
+As a software engineer, I have a passion for reading about programming languages, coding, technology, system design, algorithms, and data structures.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+### Why I Write This Blog?
+
+- Public Learning: I was inspired by this article [Learn in Public](https://gist.github.com/sw-yx/9720bd4a30606ca3ffb8d407113c0fe5).
+- Sharing: When you learn something yourself, only you can know it. That's why I want to share what I have learned with everyone.
+- And why we can't create something that I can share with others about my mistakes and lessons learned during my career.
+
+### What I Will Write About?
+
+- Everything I can imagine, including topics like Golang, backend development, algorithms, my working experiences, interview tips, and more.
+
+#### _Thank you for reading and have a great day!_

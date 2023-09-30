@@ -1,9 +1,9 @@
 {
-  "title": "Blog by John Doe",
-  "url": "https://lumen.alxshelepenok.com",
-  "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  "title": "Blog by kuro",
+  "url": "https://kurojs.vercel.app",
+  "subtitle": "Life was like a box of chocolates. You never know what you're gonna get.",
   "copyright": "© All rights reserved.",
-  "googleAnalyticsId": "UA-73379983-2",
+  "googleAnalyticsId": "",
   "disqusShortname": "",
   "postsLimit": 4,
   "pathPrefix": "/",
@@ -15,33 +15,16 @@
     {
       "label": "About me",
       "path": "/pages/about"
-    },
-    {
-      "label": "Contact me",
-      "path": "/pages/contacts"
     }
   ],
   "author": {
-    "name": "John Doe",
-    "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "name": "kuro",
+    "photo": "/avatar.jpeg",
+    "bio": "Software Engineer with enthusiasm and heuristics",
     "contacts": {
-      "rss": "",
-      "email": "",
-      "github": "#",
-      "facebook": "#",
-      "telegram": "#",
-      "twitter": "#",
-      "linkedin": "#",
-      "instagram": "#",
-      "mastodon": "#",
-      "line": "",
-      "weibo": "",
-      "gitlab": "",
-      "medium": "",
-      "youtube": "",
-      "codepen": "",
-      "soundcloud": ""
+      "email": "thanhchi.fit.hcmus@gmail.com",
+      "github": "kurojs",
+      "linkedin": "https://www.linkedin.com/in/chi-pham-774b5a18b/"
     }
   }
 }
